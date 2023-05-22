@@ -2,7 +2,8 @@
 // import Styling from "./Materi/Styling";
 // import Reusable from "./Materi/Reusable";
 // import Rendering from "./Materi/Rendering";
-import Form from "./Materi/Form";
+// import Form from "./Materi/Form";
+import FormValidation from "./Task"
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       {/* <Styling /> */}
       {/* <Reusable /> */}
       {/* <Rendering/> */}
-      <Form/>
+      {/* <Form/> */}
+      <FormValidation/>
     </div>
   );
 }
